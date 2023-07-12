@@ -1,5 +1,5 @@
 <template>
-    <div><Header /></div>
+    <div class="m-w-288 mt-28"><Header /></div>
 </template>
 
 <script setup lang="ts">

@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="w-screen flex justify-center">
         <Todoapp />
     </div>
 </template>
